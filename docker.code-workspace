@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "dockerfile"
+		},
+		{
+			"path": "dockerfile2"
+		},
+		{
+			"path": "shell"
+		},
+		{
+			"path": "mysql"
+		}
+	],
+	"settings": {}
+}
